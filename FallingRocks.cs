@@ -208,7 +208,6 @@ class GameFollingRocks
             Console.Clear();
             //Console.In.ReadToEnd();
             //Console.Out.Flush();
-
         }
     }
 }
